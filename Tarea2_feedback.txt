@@ -1,0 +1,7 @@
+El dominio inicial debe cubrir todos los puntos que puedan ser parte del conjunto de Mandelbrot. Con la información del enunciado, todo el disco con radio 2 en el plano complejo debe ser parte del dominio inicial. En tu caso, el rectángulo no cubre todo el disco. P.ej., no incluyes el punto (0;1,6), lo cual tiene radio 1.6 y podría estar dentro del conjunto de Mandelbrot.
+
+1. 0.6/1 El área del rectángulo propuesto es mayor al área del círculo de radio 2.
+2. 2/2
+3. 1/1
+4. 1/1
+5. 1/1

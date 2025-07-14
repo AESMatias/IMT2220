@@ -1,0 +1,9 @@
+1. No hay puntaje asociado.
+2. 0.5/0.5
+3. 0.5/0.5
+4. 1/1
+5. 1/1
+6. 1/1 Excelente
+7. 0.5/0.5
+8. 0.3/0.5 Son sólo 160. Las 8 anteriores deberían ser arregladas de antes!
+9. 0.5/1 No se deben hacer cálculos adicionales de la base de datos. Última diferencia incorrecta.
